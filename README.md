@@ -1,4 +1,4 @@
-# ips_typographus_genomics
+# Weak population genetic structure in Eurasian spruce bark beetle over large regional scales in Sweden
 This repository contains lab protocols, RADtag library preperation summaries, and bioinformatic scripts used in:
 
 
