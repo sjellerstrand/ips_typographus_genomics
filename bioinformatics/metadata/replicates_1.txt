@@ -1,0 +1,13 @@
+1_S12800 138_S12800
+13_N12800 30_N12800
+41_N25600 50_N25600
+52_N3200 98_N3200
+88_S400 120_S400
+95_N12800 143_N12800
+157_Sollebrunn 311_Sollebrunn
+185_Aneby 253_Aneby
+188_Nye 209_Nye
+222_Karlskrona 296_Karlskrona
+227_Karlskrona 237_Karlskrona
+243_Sollebrunn 255_Sollebrunn
+290_Oskarstrom 300_Oskarstrom

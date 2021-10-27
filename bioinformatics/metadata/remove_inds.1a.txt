@@ -1,0 +1,63 @@
+6_Stromsund	#missingness/coverage
+12_S200	#S200
+14_S6400	#Adapter 14
+15_Aneby	#Adapter 15
+16_S1600	#Adapter 16
+18_Oskarstrom	#Oskarstrom
+19_Levar	#contamination
+41_N25600	#contamination
+54_N800	#Adapter 14
+55_N3200	#Adapter 15
+56_N800	#Adapter 16
+71_Oskarstrom	#Oskarstrom
+73_S200	#S200
+77_S200	#S200
+94_Skruvemala	#Adapter 14
+95_N12800	#Adapter 15
+96_S200	#Adapter 16
+97_S1600	#contamination
+104_S200	#S200
+108_Boras	#contamination
+124_N25600	#missingness/coverage
+128_N12800	#contamination
+129_N3200	#contamination
+131_S200	#S200
+134_S6400	#Adapter 14
+135_S1600	#Adapter 15
+136_S200	#Adapter 16
+145_Ljungby	#contamination
+151_S400	#missingness/coverage
+157_Sollebrunn	#contamination
+159_N400	#contamination
+165_Oskarstrom	#contamination
+173_Brodys	#Olofstrom
+174_Vimmerby	#Adapter 14
+175_Hogtomta	#Adapter 15
+176_Skovde	#Adapter 16
+187_Sollebrunn	#contamination
+195_Oskarstrom	#contamination
+201_Kinda	#contamination
+203_Brodys	#Olofstrom
+212_Oskarstrom	#Oskarstrom
+214_Stromsund	#Adapter 14
+215_Hogtomta	#Adapter 15
+216_Orebro	#Adapter 16
+219_Vaxsjo	#missingness/coverage
+231_Oskarstrom	#missingness/coverage
+254_Oskarstrom	#Adapter 14
+255_Sollebrunn	#Adapter 15
+256_Vimmerby	#Adapter 16
+268_Oskarstrom	#Oskarstrom
+270_Brodys	#Olofstrom
+274_Brodys	#Olofstrom
+282_Sollebrunn	#contamination
+289_Oskarstrom	#contamination
+290_Oskarstrom	#contamination
+294_Aneby	#Adapter 14
+295_Kinda	#Adapter 15
+296_Karlskrona	#Adapter 16
+299_Levar	#contamination
+300_Oskarstrom	#contamination
+306_Brodys	#Olofstrom
+313_Brodys	#Olofstrom
+318_Skovde	#contamination
