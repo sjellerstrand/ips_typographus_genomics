@@ -2,7 +2,7 @@
 This repository contains lab protocols, RADtag library preperation summaries, and bioinformatic scripts used in:
 
 
-Ellerstrand, S. J., Choudhury, C., Svensson, K., Andersson, M. N., Kirkeby, C., Powell, D., Schlyter, F., Jönsson, A. M., Brydegaard, M., Hansson, B. and Runemark, A. (In prep.) Weak population genetic structure in Eurasian spruce bark beetle over large regional scales in Sweden.
+Ellerstrand, S. J., Choudhury, C., Svensson, K., Andersson, M. N., Kirkeby, C., Powell, D., Schlyter, F., Jönsson, A. M., Brydegaard, M., Hansson, B. and Runemark, A. (Accepted May 2022) Weak population genetic structure in Eurasian spruce bark beetle over large regional scales in Sweden. Ecology and Evolution.
 
 ## Bioinformatics pipeline info
 Scripts for processing of raw data all the way to a filtered VCF file can be found in bioinformatics/scripts/process_data. Scripts are numbered in the order they need to be performed.
