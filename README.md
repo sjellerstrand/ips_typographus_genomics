@@ -1,7 +1,6 @@
 # Weak population genetic structure in Eurasian spruce bark beetle over large regional scales in Sweden
 
-<a href="https://doi.org/10.1002/ece3.9078"><img src="https://img.shields.io/badge/Ecology%20and%20Evolution-doi%3A%2010.1002%2Fece3.9078-%23440154"></a> <a href="https://doi.org/10.5061/dryad.cnp5hqc6s"><img src="https://img.shields.io/badge/Dryad-doi%3A%2010.5061/dryad.cnp5hqc6s-%23440154"></a>
-
+<a href="https://doi.org/10.1002/ece3.9078"><img src="https://img.shields.io/badge/Ecology%20and%20Evolution-10.1002%2Fece3.9078-%23440154"></a> <a href="https://doi.org/10.5061/dryad.cnp5hqc6s"><img src="https://img.shields.io/badge/Dryad-10.5061/dryad.cnp5hqc6s-%23440154"></a></a> <a href="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA879999"><img src="https://img.shields.io/badge/NCBI%20BioProject-PRJNA879999-%23440154"></a>
 
 This repository contains lab protocols, RADtag library preperation summaries, and bioinformatic scripts used in:
 
